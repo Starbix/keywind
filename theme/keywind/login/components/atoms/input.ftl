@@ -9,7 +9,7 @@
   required=true
   rest...
 >
-  <div>
+  <div class="dark:text-secondary-800">
     <label class="sr-only" for="${name}">
       ${label}
     </label>

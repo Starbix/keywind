@@ -13,7 +13,8 @@ module.exports = {
     extend: {
       colors: {
         primary: colors.blue,
-        secondary: colors.gray,
+        secondary: colors.slate,
+        //secondary-dark: colors.slate-400,
 
         provider: {
           bitbucket: '#0052CC',
